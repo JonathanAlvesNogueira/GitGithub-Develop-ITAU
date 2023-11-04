@@ -1,1 +1,3 @@
 Não sabia que era possível, mas tem como comitar um unico arquivo
+
+"git commit -m comitando_um_arquivo.txt -m"Comitando um arq apenas""
